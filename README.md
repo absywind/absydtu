@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @absydtu. I am a PhD student at DTU wind energy. 
+- 👋 Hi, I am a PhD student at DTU wind energy. 
 - 👀 My research interests are offshore wind farms, and the atmospheric flow characteristics in deep sea.
 - 📫 Reach me at absy@dtu.dk
 
